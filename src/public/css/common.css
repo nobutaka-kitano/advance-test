@@ -1,0 +1,44 @@
+.header {
+    border-bottom: 1px solid #8b7969;
+}
+
+.header__logo {
+    display: flex;
+    margin: 0 auto;
+}
+
+.header__logo-title {
+    color: #8b7969;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+/* .index-table__text--first_name {
+    display: block;
+    width: 300px;
+} */
+
+.index-table__text {
+    border: none;
+    text-align: left;
+}
+
+
+.index-table__text input {
+    border: none;
+    background: #f4f4f4;
+    padding: 10px;
+    width: 500px;
+}
+
+.botton {
+    display: flex;
+}
+button {
+    margin: 0 auto;
+    background: #82756a;
+    color: white;
+    padding: 6px 24px;
+    border: none;
+    cursor: pointer;
+}

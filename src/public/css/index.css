@@ -1,0 +1,25 @@
+.index__content {
+    max-width: 1230px;
+    margin: 0 auto;
+}
+
+.index__heading {
+    display: flex;
+    margin: 0 auto;
+}
+h2 {
+    color: #8b7969;
+    margin: 28px auto;
+}
+
+.index-table__inner {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.index-table__header {
+    color: #8b7969;
+    text-align: left;
+    padding: 14px;
+}
